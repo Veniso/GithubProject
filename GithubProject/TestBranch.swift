@@ -10,4 +10,5 @@ import UIKit
 
 class TestBranch: NSObject {
 
+    //there are no methods or functions in this class
 }
