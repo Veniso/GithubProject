@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("github project created")
+        print("test commit")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
