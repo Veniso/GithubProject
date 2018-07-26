@@ -15,6 +15,7 @@
 		185796962109D1AB00AB5A05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 185796942109D1AB00AB5A05 /* LaunchScreen.storyboard */; };
 		185796A12109D1AB00AB5A05 /* GithubProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185796A02109D1AB00AB5A05 /* GithubProjectTests.swift */; };
 		185796AC2109D1AB00AB5A05 /* GithubProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185796AB2109D1AB00AB5A05 /* GithubProjectUITests.swift */; };
+		185796BA2109D52000AB5A05 /* TestBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185796B92109D52000AB5A05 /* TestBranch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		185796A72109D1AB00AB5A05 /* GithubProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GithubProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		185796AB2109D1AB00AB5A05 /* GithubProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubProjectUITests.swift; sourceTree = "<group>"; };
 		185796AD2109D1AB00AB5A05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		185796B92109D52000AB5A05 /* TestBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBranch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				185796882109D19E00AB5A05 /* AppDelegate.swift */,
 				1857968A2109D19E00AB5A05 /* ViewController.swift */,
+				185796B92109D52000AB5A05 /* TestBranch.swift */,
 				1857968C2109D19E00AB5A05 /* Main.storyboard */,
 				185796922109D1AB00AB5A05 /* Assets.xcassets */,
 				185796942109D1AB00AB5A05 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				185796912109D19E00AB5A05 /* GithubProject.xcdatamodeld in Sources */,
+				185796BA2109D52000AB5A05 /* TestBranch.swift in Sources */,
 				1857968B2109D19E00AB5A05 /* ViewController.swift in Sources */,
 				185796892109D19E00AB5A05 /* AppDelegate.swift in Sources */,
 			);
